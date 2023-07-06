@@ -91,4 +91,4 @@ _A list of my commonly used Git commands_
 | `git revert <commitid>` | this command is used to remove/delete the commitid and it will create a new commited for history |
 | `git rebase -i <commitid>` | this command is used to delete the commit id but it will not create a history |
 | `git cherry-pick <commit id>` | this command is used to copy a sha-value from one branch to other |
-| `git checkout <branch <file>` | this command is used to copy a particular file  from one branch to other Example :  git checkout develop five.java |
+| `git checkout <branch> <file>` | this command is used to copy a particular file  from one branch to other Example :  git checkout develop five.java |
